@@ -1,0 +1,2217 @@
+{
+  "meta": {
+    "tournament_id": 17,
+    "season_id": 76986,
+    "group": "goalkeeper",
+    "order": "-saves",
+    "total_pages": 2,
+    "total_records": 40
+  },
+  "results": [
+    {
+      "saves": 127,
+      "cleanSheet": 4,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 85,
+      "runsOut": 15,
+      "rating": 6.98,
+      "player": {
+        "name": "Martin Dúbravka",
+        "slug": "martin-dubravka",
+        "userCount": 3042,
+        "gender": "M",
+        "id": 42209,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مارتن دورافكا",
+            "bn": "মার্টিন ডুব্রাভকা",
+            "hi": "मार्टिन डुब्राव्का"
+          },
+          "shortNameTranslation": {
+            "ar": "م. دورافكا",
+            "bn": "এম. ডুব্রাভকা",
+            "hi": "एम. डुब्राव्का"
+          }
+        }
+      },
+      "team": {
+        "name": "Burnley",
+        "slug": "burnley",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 6,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيرنلي",
+            "bn": "বার্নলি",
+            "hi": "बर्नली",
+            "ru": "Бернли"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 110,
+      "cleanSheet": 10,
+      "penaltySave": 3,
+      "savedShotsFromInsideTheBox": 69,
+      "runsOut": 16,
+      "rating": 7.05,
+      "player": {
+        "name": "Caoimhin Kelleher",
+        "slug": "caoimhin-kelleher",
+        "userCount": 10024,
+        "gender": "M",
+        "id": 827362,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كاويمن كيليهير",
+            "bn": "কাওইমহিন কেলেহার",
+            "hi": "काओइमहिन केल्हेर"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. كيليهير",
+            "bn": "সি. কেলেহার",
+            "hi": "सी. केल्हेर"
+          }
+        }
+      },
+      "team": {
+        "name": "Brentford",
+        "slug": "brentford",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 50,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برينتفورد",
+            "bn": "ব্রেন্টফোর্ড",
+            "hi": "ब्रेंटफोर्ड",
+            "ru": "Брентфорд"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 109,
+      "cleanSheet": 10,
+      "penaltySave": 1,
+      "savedShotsFromInsideTheBox": 72,
+      "runsOut": 9,
+      "rating": 6.96,
+      "player": {
+        "name": "Robin Roefs",
+        "slug": "robin-roefs",
+        "userCount": 2464,
+        "gender": "M",
+        "id": 1012928,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روبن روفس"
+          },
+          "shortNameTranslation": {
+            "ar": "ر. روفس"
+          }
+        }
+      },
+      "team": {
+        "name": "Sunderland",
+        "slug": "sunderland",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 41,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سندرلاند",
+            "ru": "АФК Сандерленд"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 109,
+      "cleanSheet": 11,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 69,
+      "runsOut": 23,
+      "rating": 6.87,
+      "player": {
+        "name": "Đorđe Petrović",
+        "slug": "dorde-petrovic",
+        "userCount": 8695,
+        "gender": "M",
+        "id": 882604,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دوردي بيتروفيتش",
+            "bn": "ডোরে পেট্রোভিচ",
+            "hi": "डोरे पेट्रोविक"
+          },
+          "shortNameTranslation": {
+            "ar": "د. بيتروفيتش",
+            "bn": "ডি. পেট্রোভিচ",
+            "hi": "डी. पेट्रोविक"
+          }
+        }
+      },
+      "team": {
+        "name": "Bournemouth",
+        "slug": "bournemouth",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 60,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بورنموث",
+            "bn": "বোর্নেমাউথ",
+            "hi": "बोर्नमाउथ",
+            "ru": "Борнмут"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 106,
+      "cleanSheet": 10,
+      "penaltySave": 1,
+      "savedShotsFromInsideTheBox": 76,
+      "runsOut": 22,
+      "rating": 7.04,
+      "player": {
+        "name": "Bart Verbruggen",
+        "slug": "bart-verbruggen",
+        "userCount": 4943,
+        "gender": "M",
+        "id": 994363,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بارت فيربروغين",
+            "bn": "বার্ট ভারব্রুগেন",
+            "hi": "बार्ट वर्ब्रुगेन"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. فيربروغين",
+            "bn": "বি. ভারব্রুগেন",
+            "hi": "बी. वर्ब्रुगेन"
+          }
+        }
+      },
+      "team": {
+        "name": "Brighton & Hove Albion",
+        "slug": "brighton-and-hove-albion",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 30,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برايتون أند هوف ألبيون",
+            "hi": "ब्राइटोन एंड होव एल्बिओन ऍफ़सी",
+            "ru": "Брайтон энд Хоув Альбион"
+          },
+          "shortNameTranslation": {
+            "ar": "برايتون",
+            "bn": "ব্রাইটন",
+            "hi": "ब्राइटन"
+          }
+        }
+      }
+    },
+    {
+      "saves": 106,
+      "cleanSheet": 11,
+      "penaltySave": 1,
+      "savedShotsFromInsideTheBox": 76,
+      "runsOut": 26,
+      "rating": 6.93,
+      "player": {
+        "name": "Dean Henderson",
+        "slug": "dean-henderson",
+        "userCount": 5503,
+        "gender": "M",
+        "id": 788134,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دين هندرسون",
+            "bn": "ডিন হেন্ডারসন",
+            "hi": "डीन हेंडरसन"
+          },
+          "shortNameTranslation": {
+            "ar": "د. هندرسون",
+            "bn": "ডি. হেন্ডারসন",
+            "hi": "डी. हेंडरसन"
+          }
+        }
+      },
+      "team": {
+        "name": "Crystal Palace",
+        "slug": "crystal-palace",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 7,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كريستال بالاس",
+            "bn": "ক্রিস্টাল প্যালেস",
+            "hi": "क्रिस्टल पैलेस",
+            "ru": "Кристал Пэлас"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 100,
+      "cleanSheet": 11,
+      "penaltySave": 1,
+      "savedShotsFromInsideTheBox": 70,
+      "runsOut": 35,
+      "rating": 7.01,
+      "player": {
+        "name": "Jordan Pickford",
+        "slug": "jordan-pickford",
+        "userCount": 8470,
+        "gender": "M",
+        "id": 138530,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جوردان بيكفورد",
+            "bn": "জর্ডান পিকফোর্ড",
+            "hi": "जॉर्डन पिकफोर्ड"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. بيكفورد",
+            "bn": "জে.পিকফোর্ড",
+            "hi": "जे. पिकफोर्ड"
+          }
+        }
+      },
+      "team": {
+        "name": "Everton",
+        "slug": "everton",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 48,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيفرتون",
+            "bn": "এভারটন",
+            "hi": "एवर्टन",
+            "ru": "Эвертон"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 98,
+      "cleanSheet": 9,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 61,
+      "runsOut": 22,
+      "rating": 6.93,
+      "player": {
+        "name": "Bernd Leno",
+        "slug": "bernd-leno",
+        "userCount": 2724,
+        "gender": "M",
+        "id": 103335,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيرند لينو",
+            "bn": "বার্ন্ড লেনো",
+            "hi": "बर्न्ड लेनो"
+          },
+          "shortNameTranslation": {
+            "ar": "ب. لينو",
+            "bn": "বি. লেনো",
+            "hi": "बी. लेनो"
+          }
+        }
+      },
+      "team": {
+        "name": "Fulham",
+        "slug": "fulham",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 43,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فولهام",
+            "bn": "ফুলহাম",
+            "hi": "फुलहम",
+            "ru": "Фулхэм"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 98,
+      "cleanSheet": 9,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 71,
+      "runsOut": 23,
+      "rating": 6.91,
+      "player": {
+        "name": "Robert Sánchez",
+        "slug": "robert-sanchez",
+        "userCount": 19405,
+        "gender": "M",
+        "id": 920546,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روبرت سانشيز",
+            "bn": "রবার্ট সানচেজ",
+            "hi": "रॉबर्ट सांचेज़"
+          },
+          "shortNameTranslation": {
+            "ar": "ر. سانشيز",
+            "bn": "আর. সানচেজ",
+            "hi": "आर. सांचेज़"
+          }
+        }
+      },
+      "team": {
+        "name": "Chelsea",
+        "slug": "chelsea",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 38,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "تشيلسي",
+            "bn": "চেলসি",
+            "hi": "चेल्सी",
+            "ru": "Челси"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 95,
+      "cleanSheet": 7,
+      "penaltySave": 1,
+      "savedShotsFromInsideTheBox": 54,
+      "runsOut": 20,
+      "rating": 6.96,
+      "player": {
+        "name": "Emiliano Martínez",
+        "slug": "emiliano-martinez",
+        "userCount": 64213,
+        "gender": "M",
+        "id": 158263,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيميليانو مارتينيز",
+            "bn": "এমিলিয়ানো মার্টিনেজ",
+            "hi": "एमिलियानो मार्टिनेज"
+          },
+          "shortNameTranslation": {
+            "ar": "إ. مارتينيز",
+            "bn": "ই. মার্টিনেজ",
+            "hi": "ई. मार्टिनेज"
+          }
+        }
+      },
+      "team": {
+        "name": "Aston Villa",
+        "slug": "aston-villa",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 40,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أستون فيلا",
+            "bn": "অ্যাস্টন ভিলা",
+            "hi": "एस्टन विला",
+            "ru": "Астон Вилла"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 95,
+      "cleanSheet": 7,
+      "penaltySave": 1,
+      "savedShotsFromInsideTheBox": 63,
+      "runsOut": 16,
+      "rating": 6.78,
+      "player": {
+        "name": "Matz Sels",
+        "slug": "matz-sels",
+        "userCount": 2586,
+        "gender": "M",
+        "id": 78152,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماتس سيلس",
+            "bn": "ম্যাটজ সেলস",
+            "hi": "मैट्ज़ सेल्स"
+          },
+          "shortNameTranslation": {
+            "ar": "م. سيلس",
+            "bn": "এম. সেলস",
+            "hi": "एम. सेल्स"
+          }
+        }
+      },
+      "team": {
+        "name": "Nottingham Forest",
+        "slug": "nottingham-forest",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 14,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نوتنجهام فوريست",
+            "hi": "नाटिंन्ग्हम फारेस्ट",
+            "ru": "Ноттингем Форест"
+          },
+          "shortNameTranslation": {
+            "ar": "فورست",
+            "bn": "ফরেস্ট",
+            "hi": "फॉरेस्ट"
+          }
+        }
+      }
+    },
+    {
+      "saves": 89,
+      "cleanSheet": 7,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 62,
+      "runsOut": 28,
+      "rating": 6.9,
+      "player": {
+        "name": "Nick Pope",
+        "slug": "nick-pope",
+        "userCount": 4879,
+        "gender": "M",
+        "id": 162653,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نيك بوب",
+            "bn": "নিক পোপ",
+            "hi": "निक पोप"
+          },
+          "shortNameTranslation": {
+            "ar": "ن. بوب",
+            "bn": "এন. পোপ",
+            "hi": "एन. पोप"
+          }
+        }
+      },
+      "team": {
+        "name": "Newcastle United",
+        "slug": "newcastle-united",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 39,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نيوكاسل يونايتد",
+            "hi": "न्यू कास्सेल यूनाइटेड ऍफ़सी",
+            "ru": "Ньюкасл Юнайтед"
+          },
+          "shortNameTranslation": {
+            "ar": "نيوكاسل",
+            "bn": "নিউক্যাসল",
+            "hi": "न्यूकैसल"
+          }
+        }
+      }
+    },
+    {
+      "saves": 83,
+      "cleanSheet": 7,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 62,
+      "runsOut": 27,
+      "rating": 6.85,
+      "player": {
+        "name": "Guglielmo Vicario",
+        "slug": "guglielmo-vicario",
+        "userCount": 7680,
+        "gender": "M",
+        "id": 553606,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيكاريو غولييلمو",
+            "bn": "উইলিয়াম দ্য ভিকারিও",
+            "hi": "गुग्लिल्मो विकारियो"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. غولييلمو",
+            "bn": "জি. ভিকারিও",
+            "hi": "जी. विकारियो"
+          }
+        }
+      },
+      "team": {
+        "name": "Tottenham Hotspur",
+        "slug": "tottenham-hotspur",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 33,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "توتنهام هوتسبير",
+            "hi": "टोटेनहैम हॉटस्पर ऍफ़सी",
+            "ru": "Тоттенхэм Хотспур"
+          },
+          "shortNameTranslation": {
+            "ar": "توتنهام",
+            "bn": "টটেনহ্যাম",
+            "hi": "टॉटनहैम"
+          }
+        }
+      }
+    },
+    {
+      "saves": 79,
+      "cleanSheet": 8,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 53,
+      "runsOut": 11,
+      "rating": 7.01,
+      "player": {
+        "name": "Senne Lammens",
+        "slug": "senne-lammens",
+        "userCount": 32064,
+        "gender": "M",
+        "id": 964753,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سيني لامينس",
+            "bn": "সেনে ল্যামেনস",
+            "hi": "सेने लामेन्स"
+          },
+          "shortNameTranslation": {
+            "ar": "س. لامينس",
+            "bn": "এস. ল্যামেনস",
+            "hi": "एस. लामेन्स"
+          }
+        }
+      },
+      "team": {
+        "name": "Manchester United",
+        "slug": "manchester-united",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 35,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مانتشستر يونايتد",
+            "hi": "मेनचेस्टर यूनाइटेड ऍफ़सी",
+            "ru": "Манчестер Юнайтед"
+          },
+          "shortNameTranslation": {
+            "ar": "مان يونايتد",
+            "bn": "ম্যান ইউনাইটেড",
+            "hi": "मैन यूनाइटेड"
+          }
+        }
+      }
+    },
+    {
+      "saves": 78,
+      "cleanSheet": 15,
+      "penaltySave": 1,
+      "savedShotsFromInsideTheBox": 56,
+      "runsOut": 17,
+      "rating": 7.02,
+      "player": {
+        "name": "Gianluigi Donnarumma",
+        "slug": "gianluigi-donnarumma",
+        "userCount": 73243,
+        "gender": "M",
+        "id": 824509,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيانلويجي دوناروما",
+            "bn": "জিয়ানলুইগি ডোনারুম্মা",
+            "hi": "जियानलुइगी डोनारुम्मा"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. دوناروما",
+            "bn": "জি. ডোনারুম্মা",
+            "hi": "जी. डोनारुम्मा"
+          }
+        }
+      },
+      "team": {
+        "name": "Manchester City",
+        "slug": "manchester-city",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 17,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مانشستر سيتي",
+            "hi": "मेनचेस्टर सिटी ऍफ़सी",
+            "ru": "Манчестер Сити"
+          },
+          "shortNameTranslation": {
+            "ar": "مان سيتي",
+            "bn": "ম্যান সিটি",
+            "hi": "मैन सिटी"
+          }
+        }
+      }
+    },
+    {
+      "saves": 77,
+      "cleanSheet": 0,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 51,
+      "runsOut": 0,
+      "rating": 6.8,
+      "player": {
+        "name": "Alphonse Aréola",
+        "slug": "alphonse-areola",
+        "userCount": 3148,
+        "gender": "M",
+        "id": 96531,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألفونس أريولا",
+            "bn": "আলফোনস আরেওলা",
+            "hi": "अल्फोंस एरियोला"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. أريولا",
+            "bn": "এ. আরেওলা",
+            "hi": "ए. एरियोला"
+          }
+        }
+      },
+      "team": {
+        "name": "West Ham United",
+        "slug": "west-ham-united",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 37,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "وست هام يونايتد",
+            "hi": "वेस्ट हैम यूनाइटेड ऍफ़सी",
+            "ru": "Вест Хэм Юнайтед"
+          },
+          "shortNameTranslation": {
+            "ar": "وست هام",
+            "bn": "ওয়েস্ট হ্যাম",
+            "hi": "वेस्ट हैम"
+          }
+        }
+      }
+    },
+    {
+      "saves": 65,
+      "cleanSheet": 4,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 44,
+      "runsOut": 16,
+      "rating": 6.83,
+      "player": {
+        "name": "José Sá",
+        "slug": "jose-sa",
+        "userCount": 4581,
+        "gender": "M",
+        "id": 252669,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "خوسيه سا",
+            "bn": "জোসে সা",
+            "hi": "जोस सा"
+          },
+          "shortNameTranslation": {
+            "ar": "خ. سا",
+            "bn": "জে. সা",
+            "hi": "जे. सा"
+          }
+        }
+      },
+      "team": {
+        "name": "Wolverhampton",
+        "slug": "wolverhampton",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 3,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "وولفرهامبتون",
+            "ru": "Вулверхэмптон Уондерерс"
+          },
+          "shortNameTranslation": {
+            "ar": "وولفز",
+            "bn": "উলভস",
+            "hi": "वॉल्व्स"
+          }
+        }
+      }
+    },
+    {
+      "saves": 63,
+      "cleanSheet": 5,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 43,
+      "runsOut": 16,
+      "rating": 7.04,
+      "player": {
+        "name": "Karl Darlow",
+        "slug": "karl-darlow",
+        "userCount": 793,
+        "gender": "M",
+        "id": 123689,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كارل دارلو",
+            "bn": "কার্ল ডার্লো",
+            "hi": "कार्ल डार्लो"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. دارلو",
+            "bn": "কে. ডার্লো",
+            "hi": "के. डार्लो"
+          }
+        }
+      },
+      "team": {
+        "name": "Leeds United",
+        "slug": "leeds-united",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 34,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليدز يونايتد",
+            "bn": "লিডস",
+            "hi": "लीड्स यूनाइटेड",
+            "ru": "Лидс"
+          },
+          "shortNameTranslation": {
+            "ar": "ليدز",
+            "hi": "लीड्स"
+          }
+        }
+      }
+    },
+    {
+      "saves": 60,
+      "cleanSheet": 19,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 44,
+      "runsOut": 32,
+      "rating": 6.9,
+      "player": {
+        "name": "David Raya",
+        "slug": "david-raya",
+        "userCount": 32273,
+        "gender": "M",
+        "id": 581310,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيد رايا",
+            "bn": "ডেভিড রায়া",
+            "hi": "डेविड राया"
+          },
+          "shortNameTranslation": {
+            "ar": "د. رايا",
+            "bn": "ডি. রায়া",
+            "hi": "डी. राया"
+          }
+        }
+      },
+      "team": {
+        "name": "Arsenal",
+        "slug": "arsenal",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 42,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ارسنال",
+            "bn": "আর্সেনাল",
+            "hi": "आर्सेनल",
+            "ru": "Арсенал"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 57,
+      "cleanSheet": 8,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 34,
+      "runsOut": 14,
+      "rating": 6.81,
+      "player": {
+        "name": "Alisson",
+        "slug": "alisson",
+        "userCount": 71409,
+        "gender": "M",
+        "id": 243609,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليسون",
+            "bn": "অ্যালিসন",
+            "hi": "एलिसन"
+          },
+          "shortNameTranslation": {
+            "ar": "أليسون",
+            "bn": "অ্যালিসন",
+            "hi": "एलिसन"
+          }
+        }
+      },
+      "team": {
+        "name": "Liverpool FC",
+        "slug": "liverpool",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 44,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفربول",
+            "bn": "লিভারপুল",
+            "hi": "लिवरपूल",
+            "ru": "Ливерпуль"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 55,
+      "cleanSheet": 7,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 33,
+      "runsOut": 13,
+      "rating": 6.77,
+      "player": {
+        "name": "Mads Hermansen",
+        "slug": "mads-hermansen",
+        "userCount": 1997,
+        "gender": "M",
+        "id": 856640,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مادس هيرمانسن",
+            "bn": "ম্যাডস হারম্যানসেন",
+            "hi": "मैड्स हरमनसेन"
+          },
+          "shortNameTranslation": {
+            "ar": "م. هيرمانسن",
+            "bn": "এম. হারমানসেন",
+            "hi": "एम. हरमनसेन"
+          }
+        }
+      },
+      "team": {
+        "name": "West Ham United",
+        "slug": "west-ham-united",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 37,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "وست هام يونايتد",
+            "hi": "वेस्ट हैम यूनाइटेड ऍफ़सी",
+            "ru": "Вест Хэм Юнайтед"
+          },
+          "shortNameTranslation": {
+            "ar": "وست هام",
+            "bn": "ওয়েস্ট হ্যাম",
+            "hi": "वेस्ट हैम"
+          }
+        }
+      }
+    },
+    {
+      "saves": 39,
+      "cleanSheet": 0,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 26,
+      "runsOut": 14,
+      "rating": 6.88,
+      "player": {
+        "name": "Sam Johnstone",
+        "slug": "sam-johnstone",
+        "userCount": 640,
+        "gender": "M",
+        "id": 98427,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سام جونستون",
+            "bn": "স্যাম জনস্টোন",
+            "hi": "सैम जॉनस्टोन"
+          },
+          "shortNameTranslation": {
+            "ar": "س. جونستون",
+            "bn": "এস. জনস্টোন",
+            "hi": "एस. जॉनस्टोन"
+          }
+        }
+      },
+      "team": {
+        "name": "Wolverhampton",
+        "slug": "wolverhampton",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 3,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "وولفرهامبتون",
+            "ru": "Вулверхэмптон Уондерерс"
+          },
+          "shortNameTranslation": {
+            "ar": "وولفز",
+            "bn": "উলভস",
+            "hi": "वॉल्व्स"
+          }
+        }
+      }
+    },
+    {
+      "saves": 38,
+      "cleanSheet": 3,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 29,
+      "runsOut": 3,
+      "rating": 6.59,
+      "player": {
+        "name": "Lucas Perri",
+        "slug": "lucas-perri",
+        "userCount": 3665,
+        "gender": "M",
+        "id": 871290,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "لوكاس بيري",
+            "bn": "লুকাস পেরি",
+            "hi": "लुकास पेरी"
+          },
+          "shortNameTranslation": {
+            "ar": "ل. بيري",
+            "bn": "এল. পেরি",
+            "hi": "एल. पेरी"
+          }
+        }
+      },
+      "team": {
+        "name": "Leeds United",
+        "slug": "leeds-united",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 34,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليدز يونايتد",
+            "bn": "লিডস",
+            "hi": "लीड्स यूनाइटेड",
+            "ru": "Лидс"
+          },
+          "shortNameTranslation": {
+            "ar": "ليدز",
+            "hi": "लीड्स"
+          }
+        }
+      }
+    },
+    {
+      "saves": 34,
+      "cleanSheet": 2,
+      "penaltySave": 1,
+      "savedShotsFromInsideTheBox": 22,
+      "runsOut": 10,
+      "rating": 6.71,
+      "player": {
+        "name": "Giorgi Mamardashvili",
+        "slug": "giorgi-mamardashvili",
+        "userCount": 19212,
+        "gender": "M",
+        "id": 930997,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيورجي مامارداشفيلي",
+            "bn": "জিওর্গি মামারদাশভিলি",
+            "hi": "जियोर्जी ममारदाश्विली"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. مامارداشفيلي",
+            "bn": "জি. মামারদাশভিলি",
+            "hi": "जी. ममारदाश्विली"
+          }
+        }
+      },
+      "team": {
+        "name": "Liverpool FC",
+        "slug": "liverpool",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 44,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفربول",
+            "bn": "লিভারপুল",
+            "hi": "लिवरपूल",
+            "ru": "Ливерпуль"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 25,
+      "cleanSheet": 1,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 16,
+      "runsOut": 8,
+      "rating": 6.67,
+      "player": {
+        "name": "Aaron Ramsdale",
+        "slug": "aaron-ramsdale",
+        "userCount": 8975,
+        "gender": "M",
+        "id": 839410,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "آرون رامسديل",
+            "bn": "অ্যারন রামসডেল",
+            "hi": "आरोन रामस्डेल"
+          },
+          "shortNameTranslation": {
+            "ar": "آ. رامسديل",
+            "bn": "এ. রামসডেল",
+            "hi": "ए. रामस्डेल"
+          }
+        }
+      },
+      "team": {
+        "name": "Newcastle United",
+        "slug": "newcastle-united",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 39,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نيوكاسل يونايتد",
+            "hi": "न्यू कास्सेल यूनाइटेड ऍफ़सी",
+            "ru": "Ньюкасл Юнайтед"
+          },
+          "shortNameTranslation": {
+            "ar": "نيوكاسل",
+            "bn": "নিউক্যাসল",
+            "hi": "न्यूकैसल"
+          }
+        }
+      }
+    },
+    {
+      "saves": 19,
+      "cleanSheet": 1,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 11,
+      "runsOut": 9,
+      "rating": 6.54,
+      "player": {
+        "name": "Marco Bizot",
+        "slug": "marco-bizot",
+        "userCount": 991,
+        "gender": "M",
+        "id": 100390,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماركو بيزوت",
+            "bn": "মার্কো বিজোট",
+            "hi": "मार्को बिज़ोट"
+          },
+          "shortNameTranslation": {
+            "ar": "م. بيزوت",
+            "bn": "এম. বিজোট",
+            "hi": "एम. बिज़ोट"
+          }
+        }
+      },
+      "team": {
+        "name": "Aston Villa",
+        "slug": "aston-villa",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 40,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أستون فيلا",
+            "bn": "অ্যাস্টন ভিলা",
+            "hi": "एस्टन विला",
+            "ru": "Астон Вилла"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 14,
+      "cleanSheet": 1,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 10,
+      "runsOut": 8,
+      "rating": 7.18,
+      "player": {
+        "name": "James Trafford",
+        "slug": "james-trafford",
+        "userCount": 24016,
+        "gender": "M",
+        "id": 980643,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيمس ترافورد",
+            "bn": "জেমস ট্র্যাফোর্ড",
+            "hi": "जेम्स ट्रैफोर्ड"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. ترافورد",
+            "bn": "জে. ট্র্যাফোর্ড",
+            "hi": "जे. ट्रैफोर्ड"
+          }
+        }
+      },
+      "team": {
+        "name": "Manchester City",
+        "slug": "manchester-city",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 17,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مانشستر سيتي",
+            "hi": "मेनचेस्टर सिटी ऍफ़सी",
+            "ru": "Манчестер Сити"
+          },
+          "shortNameTranslation": {
+            "ar": "مان سيتي",
+            "bn": "ম্যান সিটি",
+            "hi": "मैन सिटी"
+          }
+        }
+      }
+    },
+    {
+      "saves": 13,
+      "cleanSheet": 0,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 11,
+      "runsOut": 2,
+      "rating": 6.6,
+      "player": {
+        "name": "Altay Bayındır",
+        "slug": "altay-bayindir",
+        "userCount": 16020,
+        "gender": "M",
+        "id": 815890,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألتاي بايندر",
+            "bn": "আলতায় বেয়ান্দির",
+            "hi": "अल्ताय बय्यन्दिर"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. بايندر",
+            "bn": "এ. বেয়ান্দির",
+            "hi": "ए. बय्यन्दिर"
+          }
+        }
+      },
+      "team": {
+        "name": "Manchester United",
+        "slug": "manchester-united",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 35,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مانتشستر يونايتد",
+            "hi": "मेनचेस्टर यूनाइटेड ऍफ़सी",
+            "ru": "Манчестер Юнайтед"
+          },
+          "shortNameTranslation": {
+            "ar": "مان يونايتد",
+            "bn": "ম্যান ইউনাইটেড",
+            "hi": "मैन यूनाइटेड"
+          }
+        }
+      }
+    },
+    {
+      "saves": 10,
+      "cleanSheet": 0,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 5,
+      "runsOut": 2,
+      "rating": 7.57,
+      "player": {
+        "name": "Max Weiss",
+        "slug": "max-weiss",
+        "userCount": 332,
+        "gender": "M",
+        "id": 1128801,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماكس وايس"
+          },
+          "shortNameTranslation": {
+            "ar": "م. وايس"
+          }
+        }
+      },
+      "team": {
+        "name": "Burnley",
+        "slug": "burnley",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 6,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيرنلي",
+            "bn": "বার্নলি",
+            "hi": "बर्नली",
+            "ru": "Бернли"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 10,
+      "cleanSheet": 1,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 5,
+      "runsOut": 1,
+      "rating": 7,
+      "player": {
+        "name": "Melker Ellborg",
+        "slug": "melker-ellborg",
+        "userCount": 408,
+        "gender": "M",
+        "id": 1099795,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ميلكر إلبورغ",
+            "bn": "মেলকার এলবার্গ",
+            "hi": "मेल्कर एल्बोर्ग"
+          },
+          "shortNameTranslation": {
+            "ar": "م. إلبورغ",
+            "bn": "এম. এলবোর্গ",
+            "hi": "एम. एल्बोर्ग"
+          }
+        }
+      },
+      "team": {
+        "name": "Sunderland",
+        "slug": "sunderland",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 41,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سندرلاند",
+            "ru": "АФК Сандерленд"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 10,
+      "cleanSheet": 2,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 8,
+      "runsOut": 4,
+      "rating": 6.86,
+      "player": {
+        "name": "Antonín Kinský",
+        "slug": "antonin-kinsky",
+        "userCount": 9770,
+        "gender": "M",
+        "id": 1031251,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنطونين كينسكي",
+            "bn": "আন্তোনিন কিনস্কি",
+            "hi": "एंटोनिन किंस्की"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. كينسكي",
+            "bn": "এ. কিনস্কি",
+            "hi": "ए. किंस्की"
+          }
+        }
+      },
+      "team": {
+        "name": "Tottenham Hotspur",
+        "slug": "tottenham-hotspur",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 33,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "توتنهام هوتسبير",
+            "hi": "टोटेनहैम हॉटस्पर ऍफ़सी",
+            "ru": "Тоттенхэм Хотспур"
+          },
+          "shortNameTranslation": {
+            "ar": "توتنهام",
+            "bn": "টটেনহ্যাম",
+            "hi": "टॉटनहैम"
+          }
+        }
+      }
+    },
+    {
+      "saves": 9,
+      "cleanSheet": 0,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 9,
+      "runsOut": 3,
+      "rating": 6.93,
+      "player": {
+        "name": "Freddie Woodman",
+        "slug": "freddie-woodman",
+        "userCount": 7741,
+        "gender": "M",
+        "id": 284417,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فريدي وودمان",
+            "bn": "ফ্রেডি উডম্যান",
+            "hi": "फ़्रेडी वुडमैन"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. وودمان",
+            "bn": "এফ. উডম্যান",
+            "hi": "एफ. वुडमैन"
+          }
+        }
+      },
+      "team": {
+        "name": "Liverpool FC",
+        "slug": "liverpool",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 44,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ليفربول",
+            "bn": "লিভারপুল",
+            "hi": "लिवरपूल",
+            "ru": "Ливерпуль"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 8,
+      "cleanSheet": 1,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 7,
+      "runsOut": 1,
+      "rating": 7.1,
+      "player": {
+        "name": "Stefan Ortega",
+        "slug": "stefan-ortega",
+        "userCount": 11682,
+        "gender": "M",
+        "id": 125274,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ستيفان أورتيغا",
+            "bn": "স্টেফান ওর্তেগা",
+            "hi": "स्टीफन ऑर्टेगा"
+          },
+          "shortNameTranslation": {
+            "ar": "س. أورتيغا",
+            "bn": "এস. ওর্তেগা",
+            "hi": "एस. ऑर्टेगा"
+          }
+        }
+      },
+      "team": {
+        "name": "Nottingham Forest",
+        "slug": "nottingham-forest",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 14,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نوتنجهام فوريست",
+            "hi": "नाटिंन्ग्हम फारेस्ट",
+            "ru": "Ноттингем Форест"
+          },
+          "shortNameTranslation": {
+            "ar": "فورست",
+            "bn": "ফরেস্ট",
+            "hi": "फॉरेस्ट"
+          }
+        }
+      }
+    },
+    {
+      "saves": 8,
+      "cleanSheet": 0,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 6,
+      "runsOut": 5,
+      "rating": 6.76,
+      "player": {
+        "name": "Filip Jørgensen",
+        "slug": "filip-jorgensen",
+        "userCount": 14478,
+        "gender": "M",
+        "id": 962053,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيليب يورغنسن",
+            "bn": "ফিলিপ জর্গেনসেন",
+            "hi": "फ़िलिप जोर्गेनसन"
+          },
+          "shortNameTranslation": {
+            "ar": "ف. يورغنسن",
+            "bn": "এফ. জর্জেনসেন",
+            "hi": "एफ. जोर्गेनसन"
+          }
+        }
+      },
+      "team": {
+        "name": "Chelsea",
+        "slug": "chelsea",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 38,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "تشيلسي",
+            "bn": "চেলসি",
+            "hi": "चेल्सी",
+            "ru": "Челси"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 7,
+      "cleanSheet": 0,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 7,
+      "runsOut": 4,
+      "rating": 7.1,
+      "player": {
+        "name": "Daniel Bentley",
+        "slug": "daniel-bentley",
+        "userCount": 254,
+        "gender": "M",
+        "id": 101367,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دانيال بنتلي",
+            "bn": "ড্যানিয়েল বেন্টলি",
+            "hi": "डैनियल बेंटले"
+          },
+          "shortNameTranslation": {
+            "ar": "د. بنتلي",
+            "bn": "ডি. বেন্টলি",
+            "hi": "डी. बेंटले"
+          }
+        }
+      },
+      "team": {
+        "name": "Wolverhampton",
+        "slug": "wolverhampton",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 3,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "وولفرهامبتون",
+            "ru": "Вулверхэмптон Уондерерс"
+          },
+          "shortNameTranslation": {
+            "ar": "وولفز",
+            "bn": "উলভস",
+            "hi": "वॉल्व्स"
+          }
+        }
+      }
+    },
+    {
+      "saves": 6,
+      "cleanSheet": 1,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 6,
+      "runsOut": 3,
+      "rating": 6.28,
+      "player": {
+        "name": "John Victor",
+        "slug": "john-victor",
+        "userCount": 3643,
+        "gender": "M",
+        "id": 840103,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جون فيكتور",
+            "bn": "জন ভিক্টর",
+            "hi": "जॉन विक्टर"
+          },
+          "shortNameTranslation": {
+            "ar": "ج. فيكتور",
+            "bn": "জন",
+            "hi": "जॉन"
+          }
+        }
+      },
+      "team": {
+        "name": "Nottingham Forest",
+        "slug": "nottingham-forest",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 14,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نوتنجهام فوريست",
+            "hi": "नाटिंन्ग्हम फारेस्ट",
+            "ru": "Ноттингем Форест"
+          },
+          "shortNameTranslation": {
+            "ar": "فورست",
+            "bn": "ফরেস্ট",
+            "hi": "फॉरेस्ट"
+          }
+        }
+      }
+    },
+    {
+      "saves": 3,
+      "cleanSheet": 1,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 2,
+      "runsOut": 0,
+      "rating": 7.1,
+      "player": {
+        "name": "Walter Benítez",
+        "slug": "walter-benitez",
+        "userCount": 4729,
+        "gender": "M",
+        "id": 249859,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "والتر بينيتيز",
+            "bn": "ওয়াল্টার বেনিটেজ",
+            "hi": "वाल्टर बेनिटेज़"
+          },
+          "shortNameTranslation": {
+            "ar": "و. بينيتيز",
+            "bn": "ডব্লিউ. বেনিটেজ",
+            "hi": "डब्लू. बेनिटेज़"
+          }
+        }
+      },
+      "team": {
+        "name": "Crystal Palace",
+        "slug": "crystal-palace",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 7,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كريستال بالاس",
+            "bn": "ক্রিস্টাল প্যালেস",
+            "hi": "क्रिस्टल पैलेस",
+            "ru": "Кристал Пэлас"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 2,
+      "cleanSheet": 0,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 2,
+      "runsOut": 1,
+      "rating": 7,
+      "player": {
+        "name": "Kepa Arrizabalaga",
+        "slug": "kepa-arrizabalaga",
+        "userCount": 27561,
+        "gender": "M",
+        "id": 232422,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كيبا أريزابالاغا",
+            "bn": "কেপা আরিজাবলাগা",
+            "hi": "केपा अरिज़ाबलागा"
+          },
+          "shortNameTranslation": {
+            "ar": "ك. أريزابالاغا",
+            "bn": "কে. আরিজাবালাগা",
+            "hi": "के. अरिज़ाबलागा"
+          }
+        }
+      },
+      "team": {
+        "name": "Arsenal",
+        "slug": "arsenal",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 42,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ارسنال",
+            "bn": "আর্সেনাল",
+            "hi": "आर्सेनल",
+            "ru": "Арсенал"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 1,
+      "cleanSheet": 0,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 1,
+      "runsOut": 0,
+      "rating": 6.2,
+      "player": {
+        "name": "Hákon Rafn Valdimarsson",
+        "slug": "hakon-rafn-valdimarsson",
+        "userCount": 545,
+        "gender": "M",
+        "id": 1005959,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هاكون رافن فالديمارسون",
+            "bn": "হ্যাকন রাফন ভালদিমারসন",
+            "hi": "हाकोन राफ़न वाल्डिमर्सन"
+          },
+          "shortNameTranslation": {
+            "ar": "ه. ر. فالديمارسون",
+            "bn": "এইচ. আর. ভালডিমারসন",
+            "hi": "एच.आर. वाल्डिमर्सन"
+          }
+        }
+      },
+      "team": {
+        "name": "Brentford",
+        "slug": "brentford",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 50,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برينتفورد",
+            "bn": "ব্রেন্টফোর্ড",
+            "hi": "ब्रेंटफोर्ड",
+            "ru": "Брентфорд"
+          },
+          "shortNameTranslation": {}
+        }
+      }
+    },
+    {
+      "saves": 0,
+      "cleanSheet": 0,
+      "penaltySave": 0,
+      "savedShotsFromInsideTheBox": 0,
+      "runsOut": 0,
+      "rating": 6.5,
+      "player": {
+        "name": "Angus Gunn",
+        "slug": "angus-gunn",
+        "userCount": 632,
+        "gender": "M",
+        "id": 227946,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أنغوس غن",
+            "bn": "অ্যাঙ্গাস গুন",
+            "hi": "एंगस गन"
+          },
+          "shortNameTranslation": {
+            "ar": "أ. غن",
+            "bn": "এ. গুন",
+            "hi": "ए. गन"
+          }
+        }
+      },
+      "team": {
+        "name": "Nottingham Forest",
+        "slug": "nottingham-forest",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 0,
+        "national": false,
+        "type": 0,
+        "id": 14,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نوتنجهام فوريست",
+            "hi": "नाटिंन्ग्हम फारेस्ट",
+            "ru": "Ноттингем Форест"
+          },
+          "shortNameTranslation": {
+            "ar": "فورست",
+            "bn": "ফরেস্ট",
+            "hi": "फॉरेस्ट"
+          }
+        }
+      }
+    }
+  ]
+}

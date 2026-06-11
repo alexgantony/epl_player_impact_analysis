@@ -1,0 +1,77 @@
+team_goal_diff_per90
+positive → team scores more than concedes when you play
+negative → team concedes more than scores when you play
+
+team_on_off_impact_per90
+positive → team is better with you than without you
+negative → team is actually worse with you than without you
+zero     → you make no difference either way
+
+
+Official Premier League Stats: https://www.premierleague.com/en/stats
+Understat: https://understat.com/league/EPL
+fbref: https://fbref.com/en/comps/9/Premier-League-Stats
+Opta Analyst: https://theanalyst.com/competition/premier-league/stats
+Squawka: https://www.squawka.com/en/stats/competitions/premier-league-2025-2026/
+
+
+Recommended Structure — 4 Posts
+
+Post 2 — The Data
+Show your radar charts or the bar charts. Talk about the challenge of cross-position comparison and how you solved it with position-relative Z-scores. This is where you show technical depth.
+Post 3 — The Model
+Explain your Player Impact Score. Show the weighting decisions. Acknowledge the subjectivity. This post demonstrates analytical thinking — the thing employers actually hire for.
+Post 4 — The Result
+The conclusion. Did the data support your hypothesis? Show the final ranking. Be honest if Bruno came out on top — that's actually a better story than confirming your bias.
+
+What Makes Each Post Land With Recruiters
+
+Lead with the question, not the tool. "I built a pandas pipeline" is boring. "Who really deserved PL Player of the Season?" is a hook.
+One strong visual per post. Radar chart, bar chart, or the final ranking table. Your PL-branded matplotlib theme will stand out.
+End every post with what you learned, not what you built. Employers hire for thinking, not syntax.
+Link to your GitHub in every post — not as the main CTA but as a quiet signal of seriousness.
+
+
+------------------------------
+
+
+Post 2: Data Collection & Validation
+
+Show:
+
+FPL API data
+Understat data
+Data quality checks
+Challenges encountered
+
+Recruiters like seeing data engineering and validation work.
+
+Post 3: Feature Engineering & Metrics
+
+Show some interesting metrics:
+
+Team impact
+Goal contribution
+Possession value
+Defensive contribution
+
+This demonstrates analytical thinking.
+
+Post 4: EDA & Insights
+
+Share 2–3 visualizations and surprising findings.
+
+Post 5: Final Project Showcase
+
+This becomes your "portfolio" post:
+
+Problem
+Dataset
+Methodology
+Key findings
+Final ranking
+What you learned
+GitHub
+Notebook/dashboard links
+
+This is the post you pin on LinkedIn.

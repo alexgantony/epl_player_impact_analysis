@@ -1,0 +1,9 @@
+playerId,bigChancesMissed,totalShots,goalConversionPercentage,interceptions,clearances,errorLeadToGoal,outfielderBlocks,bigChancesCreated,accuratePasses,keyPasses,saves,cleanSheet,penaltySave,savedShotsFromInsideTheBox,runsOut,goals,expectedGoals,successfulDribbles,tackles,assists,accuratePassesPercentage,sofascoreRating,name,teamName,potm_wins,position
+288205,8,85,10.59,20,42,0,5,33,1639,137,,,,,,9,10.83,15,54,21,82.2,7.61,Bruno Fernandes,Manchester United,1,Midfielder
+581310,0,0,0.0,1,37,1,0,0,707,3,60.0,19.0,0.0,44.0,32.0,0,,1,1,0,64.8,6.9,David Raya,Arsenal,0,Goalkeeper
+839956,30,126,21.43,5,42,0,1,9,252,25,,,,,,27,25.43,17,15,8,65.63,7.31,Erling Haaland,Manchester City,1,Attacker
+856714,3,40,10.0,37,78,1,12,17,1865,64,,,,,,4,3.17,14,70,5,87.31,7.46,Declan Rice,Arsenal,0,Midfielder
+865912,10,83,18.07,13,32,1,3,5,980,49,,,,,,15,10.84,30,20,4,81.13,6.92,Morgan Gibbs-White,Nottingham Forest,1,Midfielder
+869792,4,27,11.11,23,182,1,34,5,1528,7,,,,,,3,2.93,1,38,4,88.17,7.27,Gabriel Magalhães,Arsenal,0,Defender
+934354,7,83,20.48,13,29,0,7,8,749,39,,,,,,17,11.09,59,45,4,80.02,7.02,Antoine Semenyo,Bournemouth / Manchester City,1,Attacker
+1016907,20,84,26.19,12,64,0,8,6,436,24,,,,,,22,20.57,29,38,1,69.21,6.92,Igor Thiago,Brentford,2,Attacker
